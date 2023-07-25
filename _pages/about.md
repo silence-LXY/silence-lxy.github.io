@@ -33,22 +33,23 @@ I have published over 30 peer-reviewed papers <a href='https://scholar.google.co
 # 📝 Publications 
 ## ✨ Featured Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/esthag_v057i006.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/esthag_v057i006.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ["Urban Respiration" Revealed by Atmospheric O<sub>2</sub> Measurements in an Industrial Metropolis](images/EST_O2.pdf)\\
-**Xiaoyue Liu**, Jianping Huang, Li Wang, et al., 2023, <em>Environmental Science &amp; Technology</em>
+**Xiaoyue Liu**, Jianping Huang*, Li Wang, et al., 2023, <em>Environmental Science &amp; Technology</em>
 
-- **Findings**: In densely populated urban regions, resident respiration could make non-negligible contributions (27.50% to 33.08%) to the observed fluctuations in urban O<sub>2</sub> levels.
-- **Impact**: This study presents one of the first high-precision O<sub>2</sub> measurements in China. It is featured as the **front cover** article in <em>ES&T</em> and has garnered attention from various media outlets, including [<em>Xinhua News</em>](https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=808424365805568&showType=3002&utdId=0&version=3.1.3), [<em>China Daily</em>](http://epaper.chinadaily.com.cn/a/202304/12/WS6435f895a310777689888092.html), [<em>Sciencenet</em>](https://news.sciencenet.cn/htmlnews/2023/3/496021.shtm), [<em>Science and Technology Daily</em>](http://www.stdaily.com/index/kejixinwen/202303/29dac5d4564a4725bb84962c6b8e8376.shtml) among others.
+- **Backgrounds**: Urban regions are the largest sinks of atmospheric O<sub>2</sub>, yet long-term O<sub>2</sub> measurements in urban regions are currently lacking.
+- **Findings**: In densely populated urban regions, resident respiration could make non-negligible contributions (27.50% to 33.08%) to the observed fluctuations in urban O<sub>2</sub> variability.
+- **Impact**: This study presents one of the first high-precision O<sub>2</sub> measurements in China. It is featured as the [**front cover**](https://pubs.acs.org/toc/esthag/57/6) article in <em>ES&T</em> and has garnered attention from various media outlets, including [<em>Xinhua News</em>](https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=808424365805568&showType=3002&utdId=0&version=3.1.3), [<em>China Daily</em>](http://epaper.chinadaily.com.cn/a/202304/12/WS6435f895a310777689888092.html), [<em>Sciencenet</em>](https://news.sciencenet.cn/htmlnews/2023/3/496021.shtm), [<em>Science and Technology Daily</em>](http://www.stdaily.com/index/kejixinwen/202303/29dac5d4564a4725bb84962c6b8e8376.shtml) among others.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ER_COVID_fig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ER_COVID_fig.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The role of seasonality in the spread of COVID-19 pandemic](images/ER_COVID.pdf)\\
-**Xiaoyue Liu**, Jianping Huang, Changyu Li, et al., 2021, <em>Environmental Research</em>
+**Xiaoyue Liu**, Jianping Huang*, Changyu Li, et al., 2021, <em>Environmental Research</em>
 
 - **Findings**: COVID-19 seasonality is quantified using epidemiological and statistical models.
   - <font size=2>COVID-19 seasonality exhibits a more pronounced pattern at higher latitudes, where larger seasonal amplitudes of environmental indicators are observed.
@@ -66,7 +67,7 @@ I have published over 30 peer-reviewed papers <a href='https://scholar.google.co
 - *2021.10* Merit Graduate Student
 
 # 📖 Educations
-- *2018.06 - 2022.04 (now)*, Ph.D. in Climatology, Lanzhou University, Lanzhou, China
+- *2018.06 - 2024.06 (expected)*, Ph.D. in Climatology, Lanzhou University, Lanzhou, China
 - *2014.09 - 2018.06*, B.S. in Atmospheric Sciences, Lanzhou University, Lanzhou, China
 - *2011.09 - 2014.06*, No.1 Middle School Affiliated to Central China Normal University, Wuhan, China
 
