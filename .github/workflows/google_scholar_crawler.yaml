@@ -4,12 +4,14 @@ on:
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
-
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - name: Check out this repo
+      uses: actions/checkout@v2
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
