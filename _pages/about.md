@@ -37,7 +37,7 @@ I have published over 30 peer-reviewed papers <a href='https://scholar.google.co
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban Respiraiton</div><img src='images/esthag_v057i006.jpg' alt="sym" width="80%"></div></div>
 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/esthag_v057i006.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>Urban Respiraiton<div class="badge"></div><img src='images/esthag_v057i006.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ["Urban Respiration" Revealed by Atmospheric O2 Measurements in an Industrial Metropolis](images/acs.est.2c07583.pdf)
