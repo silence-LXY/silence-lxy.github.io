@@ -54,7 +54,7 @@ I have published over 30 peer-reviewed papers <a href='https://scholar.google.co
 - **Findings**: COVID-19 seasonality is quantified using epidemiological and statistical models.
   - <font size=2>COVID-19 seasonality exhibits a more pronounced pattern at higher latitudes, where larger seasonal amplitudes of environmental indicators are observed.
   - <font size=2>40–60% of COVID-19 cases are associated with seasonality. However, seasonality alone is not sufficient to fully curb the transmission of COVID-19.
-- **Impact**: As part of the [Global Prediction System of the COVID-19 Pandemic](http://covid-19.lzu.edu.cn/) established by a team led by [Prof. Huang](http://jhuang.lzu.edu.cn/), the paper has received citations from prestigious journals such as [<em>Nature Medicine</em>](https://www.nature.com/articles/s41591-021-01303-y), [<em>the Lancet Public health</em>](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(22)00001-9/fulltext). It has also been recognized as an [**ESI highly cited paper**](https://www.webofscience.com/wos/woscc/full-record/WOS:000639328800153).
+- **Impact**: As part of the [Global Prediction System of the COVID-19 Pandemic](http://covid-19.lzu.edu.cn/) established by the team led by [Prof. Huang](http://jhuang.lzu.edu.cn/), the paper has received citations from prestigious journals such as [<em>Nature Medicine</em>](https://www.nature.com/articles/s41591-021-01303-y), [<em>the Lancet Public health</em>](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(22)00001-9/fulltext). It has also been recognized as an [**ESI highly cited paper**](https://www.webofscience.com/wos/woscc/full-record/WOS:000639328800153).
 </div>
 </div>
 
