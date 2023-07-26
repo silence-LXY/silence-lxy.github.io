@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a doctoral student at [Lanzhou University](https://en.lzu.edu.cn/) under the supervision of [Prof. Jianping Huang](http://jhuang.lzu.edu.cn/).
 
-I graduated from [College of Atmospheric Sciences](https://atmos.lzu.edu.cn/), Lanzhou University with a bachelor’s degree. My research interests lie in investigating the anthropogenic impact on global environments from an interdisciplinary perspective as well as related health impacts. Specifically, I am interested in the following topics:
+My research interests lie in investigating the anthropogenic impact on global environments from an interdisciplinary perspective as well as related health impacts. Specifically, I am interested in the following topics:
 - Anthropogenic impacts on global O<sub>2</sub> cycle at both global and regional scale
 - Influence of meteorological, climatic, and environmental factors on the transmission dynamics of infectious diseases
 
@@ -59,7 +59,7 @@ I have published over 30 peer-reviewed papers <a href='https://scholar.google.co
 </div>
 
 ## ✨ Others
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+(to be updated)
 
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship for Doctoral Students (Top 1%)
@@ -67,13 +67,12 @@ I have published over 30 peer-reviewed papers <a href='https://scholar.google.co
 - *2021.10* Merit Graduate Student
 
 # 📖 Educations
-- *2018.06 - 2024.06 (expected)*, Ph.D. in Climatology, Lanzhou University, Lanzhou, China
-- *2014.09 - 2018.06*, B.S. in Atmospheric Sciences, Lanzhou University, Lanzhou, China
-- *2011.09 - 2014.06*, No.1 Middle School Affiliated to Central China Normal University, Wuhan, China
+- *2018.06 - 2024.06 (expected)* Ph.D. in Climatology, Lanzhou University, Lanzhou, China
+- *2014.09 - 2018.06*            B.S. in Atmospheric Sciences, Lanzhou University, Lanzhou, China
+- *2011.09 - 2014.06*            No.1 Middle School Affiliated to Central China Normal University, Wuhan, China
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+(to be updated)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+(to be updated)
