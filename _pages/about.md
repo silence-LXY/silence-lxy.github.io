@@ -25,7 +25,7 @@ My research interests lie in investigating the anthropogenic impact on global en
 - Anthropogenic impacts on global O<sub>2</sub> cycle at both global and regional scale
 - Influence of meteorological, climatic, and environmental factors on the transmission dynamics of infectious diseases
 
-I have published over 30 peer-reviewed papers <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, with my research appearing in top journals such as <em>National Science Review</em>, <em>Science Bulletin</em>, and <em>Environmental Science &amp; Technology</em>. Among these, I have authored 4 first-authored papers, including 1 [highly cited paper](https://doi.org/10.1016/j.envres.2021.110874), as well as 1 paper selected as the [front cover](https://pubs.acs.org/doi/10.1021/acs.est.2c07583).
+I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, with my research appearing in top journals such as <em>National Science Review</em>, <em>Science Bulletin</em>, and <em>Environmental Science &amp; Technology</em>. Among these, I have authored 4 first-authored papers, including 1 [highly cited paper](https://doi.org/10.1016/j.envres.2021.110874), as well as 1 paper selected as the [front cover](https://pubs.acs.org/doi/10.1021/acs.est.2c07583).
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 My homepage is now live!
