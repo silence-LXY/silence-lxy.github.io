@@ -25,7 +25,7 @@ My research interests lie in investigating the anthropogenic impact on global en
 - Anthropogenic impacts on global O<sub>2</sub> cycle at both global and regional scale
 - Influence of meteorological, climatic, and environmental factors on the transmission dynamics of infectious diseases
 
-I have published over 30 peer-reviewed papers <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, with my research appearing in top journals such as <em>National Science Review</em>, <em>Science Bulletin</em>, and <em>Environmental Science &amp; Technology</em>. Among these, I have authored 4 first-authored papers, including 1 [highly cited paper](https://doi.org/10.1016/j.envres.2021.110874), and 1 paper selected as the [front cover](https://pubs.acs.org/doi/10.1021/acs.est.2c07583) of <em>Environmental Science &amp; Technology</em>.
+I have published over 30 peer-reviewed papers <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, with my research appearing in top journals such as <em>National Science Review</em>, <em>Science Bulletin</em>, and <em>Environmental Science &amp; Technology</em>. Among these, I have authored 4 first-authored papers, including 1 [highly cited paper](https://doi.org/10.1016/j.envres.2021.110874), , as well as 1 paper selected as the [front cover](https://pubs.acs.org/doi/10.1021/acs.est.2c07583).
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 My homepage is now live!
@@ -67,9 +67,17 @@ I have published over 30 peer-reviewed papers <a href='https://scholar.google.co
 - *2021.10* Merit Graduate Student
 
 # 📖 Educations
-- *2018.06 - 2024.06 (expected)* Ph.D. in Climatology, Lanzhou University, Lanzhou, China
-- *2014.09 - 2018.06*            B.S. in Atmospheric Sciences, Lanzhou University, Lanzhou, China
-- *2011.09 - 2014.06*            No.1 Middle School Affiliated to Central China Normal University, Wuhan, China
+- **PhD in Climatology**
+  - Lanzhou University, Lanzhou, China
+  - June 2019 to June 2024 (Expected)
+
+- **B.S. in Atmospheric Sciences**
+  - Lanzhou University, Lanzhou, China
+  - September 2014 to June 2018
+
+- **High School Diploma**
+  - No.1 Middle School Affiliated to Central China Normal University, Wuhan, China
+  - September 2011 to June 2014
 
 # 💬 Invited Talks
 (to be updated)
