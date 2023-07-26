@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a doctoral student at [Lanzhou University](https://www.lzu.edu.cn/) under the supervision of [Prof. Jianping Huang](https://hjp.lzu.edu.cn/).
 
-My research interests lie in investigating the anthropogenic impact on global environments from an interdisciplinary perspective as well as related health impacts. Specifically, I am interested in the following topics:
+My research interests lie in investigating the anthropogenic impact on global environments from an interdisciplinary perspective as well as the related health impacts. Specifically, I am interested in the following topics:
 - Anthropogenic impacts on global O<sub>2</sub> cycle at both global and regional scale
 - Influence of meteorological, climatic, and environmental factors on the transmission dynamics of infectious diseases
 
