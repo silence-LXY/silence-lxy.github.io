@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoyue Liu（刘晓岳）"
+  name             : "Xiaoyue Liu"
   avatar           : "images/my-photo-2.jpg"
-  bio              : "Lanzhou University"
+  bio              : "刘晓岳"
   location         : "Lanzhou, China"
-  employer         :
+  employer         : "Lanzhou University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "liuxiaoyue14@lzu.edu.cn"
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  wechat           : "18571496705"
 
 
 # Reading Files
