@@ -19,7 +19,7 @@ redirect_from:
 
 # 🌲 About Me
 
-I am currently a doctoral student at [Lanzhou University](https://www.lzu.edu.cn/) under the supervision of [Prof. Jianping Huang](https://hjp.lzu.edu.cn/).
+I am currently a doctoral student at [Lanzhou University (兰州大学)](https://www.lzu.edu.cn/) under the supervision of [Prof. Jianping Huang (黄建平教授)](https://hjp.lzu.edu.cn/).
 
 My research interests lie in investigating the anthropogenic impact on global environments from an interdisciplinary perspective as well as the related health impacts. Specifically, I am interested in the following topics:
 - Anthropogenic impacts on global O<sub>2</sub> cycle at both global and regional scale
@@ -139,7 +139,7 @@ I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/ci
 
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship for Doctoral Students (Top 1%)
-- *2021.12* Baosteel Outstanding Student Special Scholarship (25 students in China each year)
+- *2021.12* [Baosteel Outstanding Student Special Scholarship](https://baike.baidu.com/item/%E5%AE%9D%E9%92%A2%E5%A5%96%E5%AD%A6%E9%87%91/1321818) (25 students in China each year)
 - *2021.10* Merit Graduate Student
 
 # 📖 Educations
