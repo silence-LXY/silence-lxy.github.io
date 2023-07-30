@@ -177,7 +177,7 @@ I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/ci
   - CET-6: 634/710
   - CET-4: 628/710
 - **Software**
-  - Python, MATLAB, NCAR Command Language, FORTRAN, Photoshop, CorelDRAW, LaTeX, etc.
+  - Python, MATLAB, R, NCAR Command Language, FORTRAN, Photoshop, CorelDRAW, LaTeX, etc.
 - **Models & Methods**
   - Machine Learning
   - WRF-Chem
