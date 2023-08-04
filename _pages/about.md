@@ -160,6 +160,7 @@ I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/ci
   - International Journal of Environmental Research and Public Health
   - Journal of Meteorological Research
   - Scientific Reports
+  - Scientific Data
 - **Conference Coordinator**
   - 3rd Congress of China Geodesy and Geophysics
 
