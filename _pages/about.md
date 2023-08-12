@@ -19,7 +19,7 @@ redirect_from:
 
 # 🌲 About Me
 
-I am currently a doctoral student at [Lanzhou University (兰州大学)](https://www.lzu.edu.cn/) under the supervision of [Prof. Jianping Huang (黄建平教授)](https://hjp.lzu.edu.cn/).
+I am currently a doctoral student at [Lanzhou University (兰州大学)](https://www.lzu.edu.cn/) under the supervision of [Prof. Jianping Huang (黄建平教授)](https://hjp.lzu.edu.cn/). I am scheduled to complete my doctoral studies in June 2024, and I am actively exploring opportunities for a Post Doctoral position.
 
 My research interests lie in investigating the anthropogenic impact on global environments from an interdisciplinary perspective as well as the related health impacts. Specifically, I am interested in the following topics:
 - Anthropogenic impacts on global O<sub>2</sub> cycle at both global and regional scale
@@ -176,9 +176,12 @@ I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/ci
 
 # 💻 Language and Skills
 - **English**
+  - spoken, read and written
   - TOEFL: 109/120
   - CET-6: 634/710
   - CET-4: 628/710
+- **Chinese**
+  - native speaker
 - **Software**
   - Python, MATLAB, R, NCAR Command Language, FORTRAN, Photoshop, CorelDRAW, LaTeX, etc.
 - **Models & Methods**
