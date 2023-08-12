@@ -60,6 +60,8 @@ I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/ci
 
 ## ✨ Full List
 <ol reversed>
+<li> <b>Liu, X.</b>; Wang L.; Huang, J.; Wang Y.; Li C.; Ding L.; Lian X.; Shi J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environmental Science & Technology Letters 2023 (under review)</li>
+
 <li> 王莉; <b>刘晓岳</b>; 黄建平. 典型工业城市兰州市大气氧气的高精度观测研究. 地球科学进展 2023, 38 (7), 715–728. https://doi.org/10.11867/j.issn.1001-8166.2023.035.</li>
 
 <li> Zhang, G.; Huang, J.; <b>Liu, X.</b>; Guan, X.; Wei, Y.; Ding, L.; Han, D. The Evolution of Ecological Security and Its Drivers in the Yellow River Basin. Environ Sci Pollut Res 2023, 30 (16), 47501–47515. https://doi.org/10.1007/s11356-023-25667-5.</li>
