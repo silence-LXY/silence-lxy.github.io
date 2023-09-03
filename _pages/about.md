@@ -22,7 +22,7 @@ redirect_from:
 I am currently a doctoral student at [Lanzhou University (兰州大学)](https://www.lzu.edu.cn/) under the supervision of [Prof. Jianping Huang (黄建平教授)](https://hjp.lzu.edu.cn/). I am scheduled to complete my doctoral studies in June 2024, and I am actively exploring opportunities for a Post Doctoral position.
 
 My research interests lie in investigating the anthropogenic impact on global environments from an interdisciplinary perspective as well as the related health impacts. Specifically, I am interested in the following topics:
-- Anthropogenic impacts on global O<sub>2</sub> and CO<sub>2</sub> cycle at both global and regional scales
+- Anthropogenic impacts on O<sub>2</sub> and CO<sub>2</sub> cycle at both global and regional scales
 - Influence of meteorological, climatic, and environmental factors on the transmission dynamics of infectious diseases
 
 I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, with my research appearing in top journals such as <em>National Science Review</em>, <em>Science Bulletin</em>, and <em>Environmental Science &amp; Technology</em>. Among these, I have authored 4 first-authored papers, including 1 [highly cited paper](https://doi.org/10.1016/j.envres.2021.110874), as well as 1 paper selected as the [front cover](https://pubs.acs.org/doi/10.1021/acs.est.2c07583).
