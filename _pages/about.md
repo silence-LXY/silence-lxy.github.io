@@ -112,8 +112,6 @@ I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/ci
 
 <li>Yang, F.; Huang, J.; He, Q.; Zheng, X.; Zhou, C.; Pan, H.; Huo, W.; Yu, H.; <b>Liu, X.</b>; Meng, L.; Han, D.; Ali, M.; Yang, X. Impact of Differences in Soil Temperature on the Desert Carbon Sink. Geoderma 2020, 379, 114636. https://doi.org/10.1016/j.geoderma.2020.114636.</li>
 
-<li>Yang, F.; Huang, J.; He, Q.; Zheng, X.; Zhou, C.; Pan, H.; Huo, W.; Yu, H.; <b>Liu, X.</b>; Meng, L.; Han, D.; Ali, M.; Yang, X. Impact of Differences in Soil Temperature on the Desert Carbon Sink. Geoderma 2020, 379, 114636. https://doi.org/10.1016/j.geoderma.2020.114636.</li>
-
 <li>Huang, J.; Zhang, L.; <b>Liu, X.</b>; Wei, Y.; Liu, C.; Lian, X.; Huang, Z.; Chou, J.; Liu, X.; Li, X.; Yang, K.; Wang, J.; Liang, H.; Gu, Q.; Du, P.; Zhang, T. Global Prediction System for COVID-19 Pandemic. Science Bulletin 2020, 65 (22), 1884–1887. https://doi.org/10.1016/j.scib.2020.08.002.</li>
 
 <li>Huang, J.; Yu, H.; Han, D.; Zhang, G.; Wei, Y.; Huang, J.; An, L.; <b>Liu, X.</b>; Ren, Y. Declines in Global Ecological Security under Climate Change. Ecol. Indic. 2020, 117 (April), 106651. https://doi.org/10.1016/j.ecolind.2020.106651.</li>
