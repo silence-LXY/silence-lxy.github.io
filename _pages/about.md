@@ -61,15 +61,24 @@ I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/ci
 ## ✨ Full List
 You can find all my co-authored publications on [Google Scholar](https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl=en). If you do not have access to any of my papers, please feel free to <a href="mailto:liuxiaoyue14@lzu.edu.cn">contact me</a> to request a copy.
 <ol reversed>
-<li> <b>Liu, X.</b>; Wang L.; Huang, J.; Wang Y.; Li C.; Ding L.; Lian X.; Shi J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environmental Science & Technology Letters, 2023 (in press)</li>
 
+### First-authored
+<li> <b>Liu, X.</b>; Wang L.; Huang, J.; Wang Y.; Li C.; Ding L.; Lian X.; Shi J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environmental Science & Technology Letters, 2023, https://doi.org/10.1021/acs.estlett.3c00505.</li>
+
+<li><b>Liu, X.</b>; Huang, J.; Wang, L.; Lian, X.; Li, C.; Ding, L.; Wei, Y.; Chen, S.; Wang, Y.; Li, S.; Shi, J. “Urban Respiration” Revealed by Atmospheric O 2 Measurements in an Industrial Metropolis. Environ. Sci. Technol. 2023, 57 (6), 2286–2296. https://doi.org/10.1021/acs.est.2c07583.</li>
+
+<li><b>Liu, X.</b>; Huang, J.; Li, C.; Zhao, Y.; Wang, D.; Huang, Z.; Yang, K. The Role of Seasonality in the Spread of COVID-19 Pandemic. Environ. Res. 2021, 195, 110874. https://doi.org/10.1016/j.envres.2021.110874.</li>
+
+<li><b>Liu, X.</b>; Huang, J.; Huang, J.; Li, C.; Ding, L.; Meng, W. Estimation of Gridded Atmospheric Oxygen Consumption from 1975 to 2018. Journal of Meteorological Research 2020, 34 (3), 646–658. https://doi.org/10.1007/s13351-020-9133-7.</li>
+
+<li><b>刘晓岳</b>; 于海鹏; 盛夏; 朱昌权; 赵庆云; 马玉霞; 苟尚. 半干旱区一次罕见“雷打雪”天气形成机制分析. 气象 2020, 46 (12), 1596–1607. https://doi.org/10.7519/j.issn.1000-0526.2020.12.007气象:2020,46(12):1596-1607.</li>
+
+### Others
 <li> 王莉; <b>刘晓岳</b>; 黄建平. 典型工业城市兰州市大气氧气的高精度观测研究. 地球科学进展 2023, 38 (7), 715–728. https://doi.org/10.11867/j.issn.1001-8166.2023.035.</li>
 
 <li> Zhang, G.; Huang, J.; <b>Liu, X.</b>; Guan, X.; Wei, Y.; Ding, L.; Han, D. The Evolution of Ecological Security and Its Drivers in the Yellow River Basin. Environ Sci Pollut Res 2023, 30 (16), 47501–47515. https://doi.org/10.1007/s11356-023-25667-5.</li>
 
 <li>Wang, L.; Zhao, Y.; Shi, J.; Ma, J.; <b>Liu, X.</b>; Han, D.; Gao, H.; Huang, T. Predicting Ozone Formation in Petrochemical Industrialized Lanzhou City by Interpretable Ensemble Machine Learning. Environmental Pollution 2023, 318, 120798. https://doi.org/10.1016/j.envpol.2022.120798.</li>
-
-<li><b>Liu, X.</b>; Huang, J.; Wang, L.; Lian, X.; Li, C.; Ding, L.; Wei, Y.; Chen, S.; Wang, Y.; Li, S.; Shi, J. “Urban Respiration” Revealed by Atmospheric O 2 Measurements in an Industrial Metropolis. Environ. Sci. Technol. 2023, 57 (6), 2286–2296. https://doi.org/10.1021/acs.est.2c07583.</li>
 
 <li>Liu, C.; Huang, J.; Chen, S.; Wang, D.; Zhang, L.; <b>Liu, X.</b>; Lian, X. The Impact of Crowd Gatherings on the Spread of COVID-19. Environ. Res. 2022, 213, 113604. https://doi.org/10.1016/j.envres.2022.113604.</li>
 
@@ -105,11 +114,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 
 <li>Huang, J.; <b>Liu, X.</b>; He, Y.; Shen, S.; Hou, Z.; Li, S.; Li, C.; Yao, L.; Huang, J. The Oxygen Cycle and a Habitable Earth. Sci. China Earth Sci. 2021, 64 (4), 511–528. https://doi.org/10.1007/s11430-020-9747-1.</li>
 
-<li><b>Liu, X.</b>; Huang, J.; Li, C.; Zhao, Y.; Wang, D.; Huang, Z.; Yang, K. The Role of Seasonality in the Spread of COVID-19 Pandemic. Environ. Res. 2021, 195, 110874. https://doi.org/10.1016/j.envres.2021.110874.</li>
-
 <li>Lian, X.; Huang, J.; Zhang, L.; Liu, C.; <b>Liu, X.</b>; Wang, L. Environmental Indicator for COVID‐19 Non‐Pharmaceutical Interventions. Geophys. Res. Lett. 2021, 48 (2). https://doi.org/10.1029/2020GL090344.</li>
-
-<li><b>刘晓岳</b>; 于海鹏; 盛夏; 朱昌权; 赵庆云; 马玉霞; 苟尚. 半干旱区一次罕见“雷打雪”天气形成机制分析. 气象 2020, 46 (12), 1596–1607. https://doi.org/10.7519/j.issn.1000-0526.2020.12.007气象:2020,46(12):1596-1607.</li>
 
 <li>Yang, F.; Huang, J.; He, Q.; Zheng, X.; Zhou, C.; Pan, H.; Huo, W.; Yu, H.; <b>Liu, X.</b>; Meng, L.; Han, D.; Ali, M.; Yang, X. Impact of Differences in Soil Temperature on the Desert Carbon Sink. Geoderma 2020, 379, 114636. https://doi.org/10.1016/j.geoderma.2020.114636.</li>
 
@@ -118,8 +123,6 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 <li>Huang, J.; Yu, H.; Han, D.; Zhang, G.; Wei, Y.; Huang, J.; An, L.; <b>Liu, X.</b>; Ren, Y. Declines in Global Ecological Security under Climate Change. Ecol. Indic. 2020, 117 (April), 106651. https://doi.org/10.1016/j.ecolind.2020.106651.</li>
 
 <li>Li, C.; Huang, J.; Ding, L.; <b>Liu, X.</b>; Yu, H.; Huang, J. Increasing Escape of Oxygen From Oceans Under Climate Change. Geophys. Res. Lett. 2020, 47 (11), 1–8. https://doi.org/10.1029/2019GL086345.</li>
-
-<li><b>Liu, X.</b>; Huang, J.; Huang, J.; Li, C.; Ding, L.; Meng, W. Estimation of Gridded Atmospheric Oxygen Consumption from 1975 to 2018. Journal of Meteorological Research 2020, 34 (3), 646–658. https://doi.org/10.1007/s13351-020-9133-7.</li>
 
 <li>Yang, F.; Huang, J.; Zhou, C.; Yang, X.; Ali, M.; Li, C.; Pan, H.; Huo, W.; Yu, H.; <b>Liu, X.</b>; Zheng, X.; Han, D.; He, Q.; Meng, L.; Chang, J. Taklimakan Desert Carbon-Sink Decreases under Climate Change. Science Bulletin 2020, 65 (6), 431–433. https://doi.org/10.1016/j.scib.2019.12.022.</li>
 
@@ -158,10 +161,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 
 # 📋 Academic Service
 - **Peer Reviewer**
-  - Scientific Data
-  - International Journal of Environmental Research and Public Health
-  - Journal of Meteorological Research
-  - Scientific Reports
+  - Scientific Data, Science of the Total Environment, Environmental Research, SCIENCE CHINA Earth Sciences, Scientific Reports
 - **Conference Coordinator**
   - 3rd Congress of China Geodesy and Geophysics
 
