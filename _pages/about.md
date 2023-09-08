@@ -62,6 +62,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 <ol reversed>
 
 ## First-authored
+
 <li> <b>Liu, X.</b>; Wang L.; Huang, J.; Wang Y.; Li C.; Ding L.; Lian X.; Shi J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environmental Science & Technology Letters, 2023, https://doi.org/10.1021/acs.estlett.3c00505.</li>
 
 <li><b>Liu, X.</b>; Huang, J.; Wang, L.; Lian, X.; Li, C.; Ding, L.; Wei, Y.; Chen, S.; Wang, Y.; Li, S.; Shi, J. “Urban Respiration” Revealed by Atmospheric O 2 Measurements in an Industrial Metropolis. Environ. Sci. Technol. 2023, 57 (6), 2286–2296. https://doi.org/10.1021/acs.est.2c07583.</li>
@@ -73,6 +74,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 <li><b>刘晓岳</b>; 于海鹏; 盛夏; 朱昌权; 赵庆云; 马玉霞; 苟尚. 半干旱区一次罕见“雷打雪”天气形成机制分析. 气象 2020, 46 (12), 1596–1607. https://doi.org/10.7519/j.issn.1000-0526.2020.12.007</li>
 
 ## Others
+
 <li> 王莉; <b>刘晓岳</b>; 黄建平. 典型工业城市兰州市大气氧气的高精度观测研究. 地球科学进展 2023, 38 (7), 715–728. https://doi.org/10.11867/j.issn.1001-8166.2023.035.</li>
 
 <li> Zhang, G.; Huang, J.; <b>Liu, X.</b>; Guan, X.; Wei, Y.; Ding, L.; Han, D. The Evolution of Ecological Security and Its Drivers in the Yellow River Basin. Environ Sci Pollut Res 2023, 30 (16), 47501–47515. https://doi.org/10.1007/s11356-023-25667-5.</li>
