@@ -48,7 +48,7 @@ I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/ci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ER_COVID_fig.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The role of seasonality in the spread of COVID-19 pandemic](images/ER_COVID.pdf)\\
+[The Role of Seasonality in the Spread of COVID-19 Pandemic](images/ER_COVID.pdf)\\
 **Xiaoyue Liu**, Jianping Huang*, Changyu Li, et al., 2021, <em>Environmental Research</em>
 
 - **Findings**: COVID-19 seasonality is quantified using epidemiological and statistical models.
