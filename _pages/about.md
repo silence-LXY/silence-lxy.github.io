@@ -59,10 +59,10 @@ I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/ci
 </div>
 
 You can find all my co-authored publications on [Google Scholar](https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl=en). If you do not have access to any of my papers, please feel free to <a href="mailto:liuxiaoyue14@lzu.edu.cn">contact me</a> to request a copy.
-<ol reversed>
 
 ## First-authored
 
+<ol reversed>
 <li> <b>Liu, X.</b>; Wang L.; Huang, J.; Wang Y.; Li C.; Ding L.; Lian X.; Shi J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environmental Science & Technology Letters, 2023, https://doi.org/10.1021/acs.estlett.3c00505.</li>
 
 <li><b>Liu, X.</b>; Huang, J.; Wang, L.; Lian, X.; Li, C.; Ding, L.; Wei, Y.; Chen, S.; Wang, Y.; Li, S.; Shi, J. “Urban Respiration” Revealed by Atmospheric O 2 Measurements in an Industrial Metropolis. Environ. Sci. Technol. 2023, 57 (6), 2286–2296. https://doi.org/10.1021/acs.est.2c07583.</li>
