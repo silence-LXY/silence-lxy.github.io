@@ -25,7 +25,7 @@ My research interests lie in investigating the anthropogenic impact on global en
 - Anthropogenic impacts on O<sub>2</sub> and CO<sub>2</sub> cycle at both global and regional scales
 - Influence of meteorological, climatic, and environmental factors on the transmission dynamics of infectious diseases
 
-I have published 30+ peer-reviewed papers <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, with my research appearing in top journals such as <em>National Science Review</em>, <em>Science Bulletin</em>, and <em>Environmental Science &amp; Technology</em>. Among these, I have authored 4 first-authored papers, including 1 [highly cited paper](https://doi.org/10.1016/j.envres.2021.110874), as well as 1 paper selected as the [front cover](https://pubs.acs.org/doi/10.1021/acs.est.2c07583).
+I have published 4 first-authored papers, including 1 [ESI highly cited paper](https://doi.org/10.1016/j.envres.2021.110874), as well as 1 paper selected as the [front cover](https://pubs.acs.org/doi/10.1021/acs.est.2c07583), with <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 My homepage is now live!
@@ -63,7 +63,8 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 ## First-authored
 
 <ol reversed>
-<li> <b>Liu, X.</b>; Wang L.; Huang, J.; Wang Y.; Li C.; Ding L.; Lian X.; Shi J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environmental Science & Technology Letters, 2023, https://doi.org/10.1021/acs.estlett.3c00505.</li>
+<li> <b>Liu, X.</b>; Wang, L.; Huang, J.; Wang, Y.; Li, C.; Ding, L.; Lian, X.; Shi, J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environ. Sci. Technol. Lett. 2023. https://doi.org/10.1021/acs.estlett.3c00505.
+</li>
 
 <li><b>Liu, X.</b>; Huang, J.; Wang, L.; Lian, X.; Li, C.; Ding, L.; Wei, Y.; Chen, S.; Wang, Y.; Li, S.; Shi, J. “Urban Respiration” Revealed by Atmospheric O 2 Measurements in an Industrial Metropolis. Environ. Sci. Technol. 2023, 57 (6), 2286–2296. https://doi.org/10.1021/acs.est.2c07583.</li>
 
@@ -71,7 +72,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 
 <li><b>Liu, X.</b>; Huang, J.; Huang, J.; Li, C.; Ding, L.; Meng, W. Estimation of Gridded Atmospheric Oxygen Consumption from 1975 to 2018. Journal of Meteorological Research 2020, 34 (3), 646–658. https://doi.org/10.1007/s13351-020-9133-7.</li>
 
-<li><b>刘晓岳</b>; 于海鹏; 盛夏; 朱昌权; 赵庆云; 马玉霞; 苟尚. 半干旱区一次罕见“雷打雪”天气形成机制分析. 气象 2020, 46 (12), 1596–1607. https://doi.org/10.7519/j.issn.1000-0526.2020.12.007</li>
+<li><b>Liu, X.</b>; Yu, H.; Sheng, X.; Zhu, C.; Zhao, Q.; Ma, Y.; Ju, S. Mechanism Analysis of a Rare “Thunder Snow” Process in Semi-Arid Area. Meteor. Mon, 2020, 46 (12), 1596–1607. https://doi.org/10.7519/j.issn.1000-0526.2020.12.007 (in Chinese)</li>
 </ol>
 
 ## Others
