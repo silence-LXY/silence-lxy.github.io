@@ -25,7 +25,7 @@ My research interests lie in investigating the anthropogenic impact on global en
 - Anthropogenic impacts on O<sub>2</sub> and CO<sub>2</sub> cycle at both global and regional scales
 - Influence of meteorological, climatic, and environmental factors on the transmission dynamics of infectious diseases
 
-I have published 5 first-authored papers, including 1 [ESI highly cited paper](https://doi.org/10.1016/j.envres.2021.110874), as well as 1 paper selected as the [front cover](https://pubs.acs.org/doi/10.1021/acs.est.2c07583), with <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published 5 first-authored papers, including 1 [ESI highly cited paper](https://doi.org/10.1016/j.envres.2021.110874), as well as 1 paper selected as the [journal front cover](https://pubs.acs.org/doi/10.1021/acs.est.2c07583), with <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 My homepage is now live!
@@ -75,7 +75,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 <li><b>Liu, X.</b>; Yu, H.; Sheng, X.; Zhu, C.; Zhao, Q.; Ma, Y.; Ju, S. Mechanism Analysis of a Rare “Thunder Snow” Process in Semi-Arid Area. Meteor. Mon, 2020, 46 (12), 1596–1607. https://doi.org/10.7519/j.issn.1000-0526.2020.12.007 (in Chinese)</li>
 </ol>
 
-## Others
+## Co-authored
 
 <ol reversed>
 
@@ -149,7 +149,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship for Doctoral Students (Top 1%)
 - *2021.12* [Baosteel Outstanding Student Special Scholarship](https://baike.baidu.com/item/%E5%AE%9D%E9%92%A2%E5%A5%96%E5%AD%A6%E9%87%91/1321818) (25 students in China each year)
-- *2021.10* Merit Graduate Student
+- *2021.10* Merit Postgraduate Student of Lanzhou University
 
 # 📖 Educations
 - **PhD in Climatology**
@@ -166,7 +166,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 
 # 📋 Academic Service
 - **Peer Reviewer**
-  - Scientific Data, Science of the Total Environment, Environmental Research, SCIENCE CHINA Earth Sciences, Scientific Reports
+  - Scientific Data, Science of the Total Environment, Environmental Research, SCIENCE CHINA Earth Sciences, Scientific Reports, etc.
 - **Conference Coordinator**
   - 3rd Congress of China Geodesy and Geophysics
 
