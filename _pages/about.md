@@ -63,7 +63,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 ## First-authored
 
 <ol reversed>
-<li> <b>Liu, X.</b>; Wang, L.; Huang, J.; Wang, Y.; Li, C.; Ding, L.; Lian, X.; Shi, J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environ. Sci. Technol. Lett. 2023. https://doi.org/10.1021/acs.estlett.3c00505. <b><i>JCR-Q1 IF=10.9</i></b>
+<li> <b>Liu, X.</b>; Wang, L.; Huang, J.; Wang, Y.; Li, C.; Ding, L.; Lian, X.; Shi, J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environ. Sci. Technol. Lett. 2023. <a href="url">https://doi.org/10.1021/acs.estlett.3c00505</a>. <b><i>JCR-Q1 IF=10.9</i></b>
 </li>
 
 <li><b>Liu, X.</b>; Huang, J.; Wang, L.; Lian, X.; Li, C.; Ding, L.; Wei, Y.; Chen, S.; Wang, Y.; Li, S.; Shi, J. “Urban Respiration” Revealed by Atmospheric O 2 Measurements in an Industrial Metropolis. Environ. Sci. Technol. 2023, 57 (6), 2286–2296. https://doi.org/10.1021/acs.est.2c07583. <b><i>JCR-Q1 IF=11.4 Journal Front Cover</i></b>
