@@ -84,7 +84,6 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 
 <li> Huang, J.; Zhang, L.; Chen, B.; <b>Liu, X.</b>; Yan, W.; Zhao, Y.; Chen, S.; Lian, X.; Liu, C.; Wang, R.; Gao, S.; Wang, D. Development of the Second Version of the Global Prediction System for Epidemiological Pandemic. Fundamental Research 2023, S2667325823002303. <a href="https://doi.org/10.1016/j.fmre.2023.02.030">https://doi.org/10.1016/j.fmre.2023.02.030.</a></li>
 
-
 <li> 王莉; <b>刘晓岳</b>; 黄建平. 典型工业城市兰州市大气氧气的高精度观测研究. 地球科学进展 2023, 38 (7), 715–728. <a href="http://www.adearth.ac.cn/CN/10.11867/j.issn.1001-8166.2023.035">https://doi.org/10.11867/j.issn.1001-8166.2023.035</a>.</li>
 
 <li> Zhang, G.; Huang, J.; <b>Liu, X.</b>; Guan, X.; Wei, Y.; Ding, L.; Han, D. The Evolution of Ecological Security and Its Drivers in the Yellow River Basin. Environ Sci Pollut Res 2023, 30 (16), 47501–47515. <a href="https://doi.org/10.1007/s11356-023-25667-5">https://doi.org/10.1007/s11356-023-25667-5</a>.
