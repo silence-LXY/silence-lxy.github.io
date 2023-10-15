@@ -25,10 +25,11 @@ My research interests lie in investigating the anthropogenic impact on global en
 - Anthropogenic impacts on O<sub>2</sub> and CO<sub>2</sub> cycle at both global and regional scales
 - Influence of meteorological, climatic, and environmental factors on the transmission dynamics of infectious diseases
 
-I have published 5 first-authored papers, including 1 [ESI highly cited paper](https://doi.org/10.1016/j.envres.2021.110874), as well as 1 paper selected as the [journal front cover](https://pubs.acs.org/doi/10.1021/acs.est.2c07583), with <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published 5 first-authored papers, including 1 **[ESI highly cited paper](https://doi.org/10.1016/j.envres.2021.110874)**, as well as 2 paper selected as the **journal front cover**, with <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 My homepage is now live!
+- *2023.10*: &nbsp;:🌏🌏 Another Cover Paper published on [ES&T Letters](https://doi.org/10.1021/acs.estlett.3c00505).
+- *2023.02*: &nbsp;🎉🎉 ES&T Paper Selected as the [Front Cover] (https://pubs.acs.org/doi/10.1021/acs.est.2c07583)!
 
 # 📝 Publications
 ## ✨ Featured Article
@@ -63,7 +64,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 ## First-authored
 
 <ol reversed>
-<li> <b>Liu, X.</b>; Wang, L.; Huang, J.; Wang, Y.; Li, C.; Ding, L.; Lian, X.; Shi, J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environ. Sci. Technol. Lett. 2023. <a href="https://doi.org/10.1021/acs.estlett.3c00505">https://doi.org/10.1021/acs.estlett.3c00505</a>. <b><i>JCR-Q1 IF=10.9</i></b>
+<li> <b>Liu, X.</b>; Wang, L.; Huang, J.; Wang, Y.; Li, C.; Ding, L.; Lian, X.; Shi, J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. Environ. Sci. Technol. Lett. 2023, 10 (10), 851-858. <a href="https://doi.org/10.1021/acs.estlett.3c00505">https://doi.org/10.1021/acs.estlett.3c00505</a>. <b><i>JCR-Q1 IF=10.9 Journal Supplementary Cover</i></b>
 </li>
 
 <li><b>Liu, X.</b>; Huang, J.; Wang, L.; Lian, X.; Li, C.; Ding, L.; Wei, Y.; Chen, S.; Wang, Y.; Li, S.; Shi, J. “Urban Respiration” Revealed by Atmospheric O 2 Measurements in an Industrial Metropolis. Environ. Sci. Technol. 2023, 57 (6), 2286–2296. <a href="https://doi.org/10.1021/acs.est.2c07583">https://doi.org/10.1021/acs.est.2c07583</a>. <b><i>JCR-Q1 IF=11.4 Journal Front Cover</i></b>
