@@ -15,14 +15,14 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  "G-LXWSZKWBSM" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  "google84b57d3849511827.html" # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  "BingSiteAuth.xml" # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  kgRT56vbTOqvZ31X9LVcDcac3mF1Wjf9VIzKqLqVNuU # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  585F7E106DF0C0B4506242ABCF495503 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "Xiaoyue Liu"
-  avatar           : "images/my-photo-2.jpg"
+  avatar           : "images/my-photo-1.jpg"
   bio              : "刘晓岳"
   location         : "Lanzhou, China"
   employer         : "Lanzhou University"
