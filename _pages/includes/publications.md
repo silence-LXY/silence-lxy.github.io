@@ -1,31 +1,4 @@
 # 📝 Publications
-## ✨ Featured Article
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/esthag_v057i006.jpg' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-["Urban Respiration" Revealed by Atmospheric O<sub>2</sub> Measurements in an Industrial Metropolis](images/EST_O2.pdf)\\
-**Xiaoyue Liu**, Jianping Huang*, Li Wang, et al., 2023, <em>Environmental Science &amp; Technology</em>
-
-- **Backgrounds**: Urban regions are the largest sinks of atmospheric O<sub>2</sub>, yet long-term O<sub>2</sub> measurements in urban regions are currently lacking.
-- **Findings**: In densely populated urban regions, resident respiration could make non-negligible contributions (27.50% to 33.08%) to the observed fluctuations in urban O<sub>2</sub> variability.
-- **Impact**: This study presents one of the first high-precision O<sub>2</sub> measurements in China. It is featured as the [**front cover**](https://pubs.acs.org/toc/esthag/57/6) article in <em>ES&T</em> and has garnered attention from various media outlets, including [<em>Xinhua News</em>](https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=808424365805568&showType=3002&utdId=0&version=3.1.3), [<em>China Daily</em>](http://epaper.chinadaily.com.cn/a/202304/12/WS6435f895a310777689888092.html), [<em>Sciencenet</em>](https://news.sciencenet.cn/htmlnews/2023/3/496021.shtm), [<em>Science and Technology Daily</em>](http://www.stdaily.com/index/kejixinwen/202303/29dac5d4564a4725bb84962c6b8e8376.shtml) among others.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ER_COVID_fig.jpg' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[The Role of Seasonality in the Spread of COVID-19 Pandemic](images/ER_COVID.pdf)\\
-**Xiaoyue Liu**, Jianping Huang*, Changyu Li, et al., 2021, <em>Environmental Research</em>
-
-- **Findings**: COVID-19 seasonality is quantified using epidemiological and statistical models.
-  - <font size=2>COVID-19 seasonality exhibits a more pronounced pattern at higher latitudes, where larger seasonal amplitudes of environmental indicators are observed.
-  - <font size=2>40–60% of COVID-19 cases are associated with seasonality. However, seasonality alone is not sufficient to fully curb the transmission of COVID-19.
-- **Impact**: As part of the [Global Prediction System of the COVID-19 Pandemic](http://covid-19.lzu.edu.cn/) established by the team led by [Prof. Huang](http://jhuang.lzu.edu.cn/), the paper has received citations from prestigious journals such as [<em>Nature Medicine</em>](https://www.nature.com/articles/s41591-021-01303-y), [<em>the Lancet Public health</em>](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(22)00001-9/fulltext). It has also been recognized as an [**ESI highly cited paper**](https://www.webofscience.com/wos/woscc/full-record/WOS:000639328800153).
-</div>
-</div>
-
 You can find all my co-authored publications on [Google Scholar](https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl=en) <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you do not have access to any of my papers, please feel free to <a href="mailto:liuxiaoyue14@lzu.edu.cn">contact me</a> to request a copy.
 
 ## First-authored

@@ -17,6 +17,8 @@ redirect_from:
 
 {% include_relative includes/about_me.md %}
 
+{% include_relative includes/projects.md %}
+
 {% include_relative includes/publications.md %}
 
 {% include_relative includes/presentations.md %}

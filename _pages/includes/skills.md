@@ -7,7 +7,7 @@
 - **Chinese**
   - native speaker
 - **Software**
-  - Python, MATLAB, R, NCAR Command Language, FORTRAN, Photoshop, CorelDRAW, LaTeX, etc.
+  - **Python**, MATLAB, R, NCAR Command Language, FORTRAN, Photoshop, CorelDRAW, LaTeX, etc.
 - **Models & Methods**
   - Machine Learning
   - WRF-Chem
