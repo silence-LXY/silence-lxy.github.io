@@ -26,7 +26,7 @@
 </div>
 </div>
 
-You can find all my co-authored publications on [Google Scholar](https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl=en). If you do not have access to any of my papers, please feel free to <a href="mailto:liuxiaoyue14@lzu.edu.cn">contact me</a> to request a copy.
+You can find all my co-authored publications on [Google Scholar](https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl=en) <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you do not have access to any of my papers, please feel free to <a href="mailto:liuxiaoyue14@lzu.edu.cn">contact me</a> to request a copy.
 
 ## First-authored
 
