@@ -1,6 +1,6 @@
 # ✨ Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/esthag_v057i006.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/O2_projects.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Understanding factors driving the O<sub>2</sub> variation in urban atmosphere (2019.9 ~ now)
@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ER_COVID_fig.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/COVID_project.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## How does seasonality influence the dynamics of COVID-19 transmission? (2020.1 ~ 2021.6)
