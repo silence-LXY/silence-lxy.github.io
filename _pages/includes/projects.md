@@ -1,4 +1,4 @@
-# ✨Projects
+# ✨ Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/esthag_v057i006.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
