@@ -19,7 +19,7 @@ redirect_from:
 
 {% include_relative includes/projects.md %}
 
-{% include_relative includes/publications.md %}
+{% include_relative includes/1st_publications.md %}
 
 {% include_relative includes/presentations.md %}
 
