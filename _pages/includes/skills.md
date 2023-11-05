@@ -13,5 +13,3 @@
   - Machine Learning
   - WRF-Chem
   - High Performance Computing
-  - STILT
-  - Hysplit
