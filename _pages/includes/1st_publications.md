@@ -5,10 +5,10 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 ## First-authored
 
 <ol reversed>
-<li> <b>Liu, X.</b>; Wang, L.; Huang, J.; Wang, Y.; Li, C.; Ding, L.; Lian, X.; Shi, J. Revealing the Covariation of Atmospheric O2 and Pollutants in an Industrial Metropolis by Explainable Machine Learning. <i>Environ. Sci. Technol. Lett.</i> 2023, 10 (10), 851-858. <a href="https://doi.org/10.1021/acs.estlett.3c00505">https://doi.org/10.1021/acs.estlett.3c00505</a>. <b><i>JCR-Q1 IF=10.9 Journal Supplementary Cover</i></b>
+<li> <b>Liu, X.</b>; Wang, L.; Huang, J.; Wang, Y.; Li, C.; Ding, L.; Lian, X.; Shi, J. Revealing the Covariation of Atmospheric O<sub>2</sub> and Pollutants in an Industrial Metropolis by Explainable Machine Learning. <i>Environ. Sci. Technol. Lett.</i> 2023, 10 (10), 851-858. <a href="https://doi.org/10.1021/acs.estlett.3c00505">https://doi.org/10.1021/acs.estlett.3c00505</a>. <b><i>JCR-Q1 IF=10.9 Journal Supplementary Cover</i></b>
 </li>
 
-<li><b>Liu, X.</b>; Huang, J.; Wang, L.; Lian, X.; Li, C.; Ding, L.; Wei, Y.; Chen, S.; Wang, Y.; Li, S.; Shi, J. “Urban Respiration” Revealed by Atmospheric O 2 Measurements in an Industrial Metropolis. <i>Environ. Sci. Technol.</i> 2023, 57 (6), 2286–2296. <a href="https://doi.org/10.1021/acs.est.2c07583">https://doi.org/10.1021/acs.est.2c07583</a>. <b><i>JCR-Q1 IF=11.4 Journal Front Cover</i></b>
+<li><b>Liu, X.</b>; Huang, J.; Wang, L.; Lian, X.; Li, C.; Ding, L.; Wei, Y.; Chen, S.; Wang, Y.; Li, S.; Shi, J. “Urban Respiration” Revealed by Atmospheric O<sub>2</sub> Measurements in an Industrial Metropolis. <i>Environ. Sci. Technol.</i> 2023, 57 (6), 2286–2296. <a href="https://doi.org/10.1021/acs.est.2c07583">https://doi.org/10.1021/acs.est.2c07583</a>. <b><i>JCR-Q1 IF=11.4 Journal Front Cover</i></b>
 </li>
 
 <li><b>Liu, X.</b>; Huang, J.; Li, C.; Zhao, Y.; Wang, D.; Huang, Z.; Yang, K. The Role of Seasonality in the Spread of COVID-19 Pandemic. <i>Environ. Res.</i> 2021, 195, 110874. <a href="https://doi.org/10.1016/j.envres.2021.110874">https://doi.org/10.1016/j.envres.2021.110874</a>.  <b><i>JCR-Q1 IF=8.3 ESI Higly Cited</i></b>
