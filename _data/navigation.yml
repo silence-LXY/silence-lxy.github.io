@@ -10,7 +10,7 @@ main:
     url: "/CV"
 
   - title: "Links"
-    url: "/Links"
+    url: "/links"
 
   # - title: "Presentations"
   #   url: "/#-presentations"
