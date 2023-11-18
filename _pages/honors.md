@@ -1,0 +1,8 @@
+# 🎖 Honors and Awards
+
+- *2021* National Scholarship for Doctoral Students (Top 1%)
+- *2021* [Baosteel Outstanding Student Special Scholarship](https://baike.baidu.com/item/%E5%AE%9D%E9%92%A2%E5%A5%96%E5%AD%A6%E9%87%91/1321818) (25 students in China each year)
+- *2021* Merit Postgraduate Student of Lanzhou University (Top 5%)
+- *2020,2023* The First Prize Scholarship for Doctoral Students (Top 10%)
+- *2018,2019* The First Prize Scholarship for Graduate Students (Top 10%)
+- *2016.02* Meritorious Winner, Mathematical Contest in Modeling (Top 7%)

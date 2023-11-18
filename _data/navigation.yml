@@ -1,25 +1,28 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#-about-me"
-
-  - title: "Projects"
-    url: "/#-projects"
+  - title: "Research"
+    url: "/research"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/publications"
 
-  - title: "Presentations"
-    url: "/#-presentations"
+  - title: "CV"
+    url: "/CV"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Links"
+    url: "/links"
 
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Presentations"
+  #   url: "/#-presentations"
 
-  - title: "Academic Service"
-    url: "/#-academic-service"
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
 
-  - title: "Skills and Language"
-    url: "/#-skills-and-language"
+  # - title: "Educations"
+  #   url: "/#-educations"
+
+  # - title: "Academic Service"
+  #   url: "/#-academic-service"
+
+  # - title: "Skills and Language"
+  #   url: "/#-skills-and-language"

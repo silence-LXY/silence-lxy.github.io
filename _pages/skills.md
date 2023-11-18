@@ -1,0 +1,14 @@
+# 💻 Skills and Language
+- **Programming Skills**
+  - **Proficient in Python**, MATLAB, R, NCAR Command Language, FORTRAN, Markdown, LaTeX, etc.
+- **Models & Methods**
+  - Machine Learning, Time Series Analysis, WRF-Chem, Causal Inference, High Performance Computing, Epidemic Models, etc.
+- **Instrumentation**
+  - Installation, maintenance, and calibration of instruments for O<sub>2</sub> and CO<sub>2</sub> measurements (e.g., Picarro G2207-i, Agilent 7890B)
+- **Software**
+  - **Proficient** in Adobe Photoshop, Adobe Illustrator, CorelDRAW for research visualization and illustration
+- **English**
+  - **Proficient** in academic and professional communication
+  - TOEFL: 109/120; CET-6: 634/710; CET-4: 628/710
+- **Chinese**
+  - native speaker
