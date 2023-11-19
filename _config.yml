@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoyue Liu（刘晓岳）"
-description              : "Doctoral student"
+description              : "Ph.D. Candidate"
 repository               : "silence-LXY/silence-lxy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/my-photo-1.jpg"
   bio              : "刘晓岳"
   location         : 
-  employer         : "Lanzhou University"
+  # employer         : "Lanzhou University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "liuxiaoyue14@lzu.edu.cn"

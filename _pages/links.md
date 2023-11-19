@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 🔗 Links
+# 🔗 Links <span style="float:right"><font size=2>(Last updated on 2023.11.19)</font></span>
 
 ## Prof. Jianping Huang & Group
 
@@ -38,9 +38,9 @@ Here are some softwares and tools that I find useful in my research:
     - [causalpy](https://causalpy.readthedocs.io/en/latest/)
     - [PyMC](https://www.pymc.io/welcome.html)
   - Parallel Computing: 
-    - [dask](https://www.dask.org/)
+    - [Dask](https://www.dask.org/)
   - Visualization: 
-    - [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), [plotly](https://plotly.com/), [JoyPy](https://github.com/leotac/joypy)
+    - [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), [plotly](https://plotly.com/), [JoyPy](https://github.com/leotac/joypy)
     - [contextily](https://contextily.readthedocs.io/en/latest/) (retrieve open source maps) 
     - [cmpas](https://github.com/hhuangwx/cmaps) (NCL colormap)
   - Package Management: 

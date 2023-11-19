@@ -12,24 +12,27 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# ℹ️ Curriculum Vitae
+# ℹ️ Curriculum Vitae <span style="float:right"><font size=2>(Last updated on 2023.11.19)</font></span>
 
 ## 📖 Educations
-- **PhD in Climatology**
-  - Lanzhou University, Lanzhou, China
-  - Advisor: Prof. Jianping Huang (Academician of Chinese Academy of Science)
-  - 2018.09 - 2024.06 (Expected)
-
-- **B.S. in Atmospheric Sciences**
-  - Lanzhou University, Lanzhou, China
-  - Advisor: Prof. Jianping Huang
-  - 2014.09 - 2018.06
+<ul>
+<div><span style="float:right">2018.09 - 2024.06 (Expected)</span><b><li> Ph.D. in Climatology</li></b> </div>
+<ul>  
+  <li>Lanzhou University, Lanzhou, China</li>
+  <li>Advisor: Prof. Jianping Huang (Academician of Chinese Academy of Science)</li>
+</ul>
+<div><span style="float:right">2014.09 - 2018.06</span><b><li> B.S. in Atmospheric Sciences</li></b> </div>
+<ul>   
+  <li>Lanzhou University, Lanzhou, China</li>
+  <li>Advisor: Prof. Jianping Huang</li>
+</ul>
+</ul>
 
 ***
 
 ## 🔎 Research Experience
 ### Anthropogenic Impact on O<sub>2</sub> and CO<sub>2</sub> budget (2019-Present)
-- **Regional Scale**: Explored urban O<sub>2</sub> budgets, and examined non-lienar relationships between O<sub>2</sub> and human activities in urban Lanzhou based on high-precision O<sub>2</sub> measurements and process-based and data-driven modeling techniques
+- **Regional Scale**: Explored urban O<sub>2</sub> budgets, and examined non-linear relationships between O<sub>2</sub> and human activities in urban Lanzhou based on high-precision O<sub>2</sub> measurements and process-based and data-driven modeling techniques
 
 - **Global Scale**: Developed a novel and comprehensive inventory of global atmospheric O<sub>2</sub> uptake, and employed Earth system models to assess and predict the global atmospheric O<sub>2</sub> budget across various historical periods and future projections
 
@@ -57,7 +60,7 @@ author_profile: true
 
 ***
 
-## 🎖 Honors and Awards
+## 🏆 Honors and Awards
 
 - *2021* National Scholarship for Doctoral Students (Top 1%)
 - *2021* [Baosteel Outstanding Student Special Scholarship](https://baike.baidu.com/item/%E5%AE%9D%E9%92%A2%E5%A5%96%E5%AD%A6%E9%87%91/1321818) (25 students in China annually)

@@ -12,8 +12,7 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# ✨ Research
-
+# ✨ Research <span style="float:right"><font size=2>(Last updated on 2023.11.19)</font></span>
 
 ## Understanding factors driving the O<sub>2</sub> variation in urban atmosphere (2019 ~ now)
 

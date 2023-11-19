@@ -12,13 +12,11 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 📝 Publications
+# 📝 Publications <span style="float:right"><font size=2>(Last updated on 2023.11.19)</font></span>
 
-I have co-authored over 30 peer-reviewed papers, cited more than 460 times with an H-index of 12 (Web of Science).
+I have co-authored over 30 peer-reviewed papers, cited more than 460 times with an H-index of 12 (Source: Web of Science).
 
 You can find all my co-authored publications on [Google Scholar](https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl=en) <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, [Web of Science](https://www.webofscience.com/wos/author/record/1931097), [ORCID](https://orcid.org/0000-0001-8074-3362), and [ResearchGate](https://www.researchgate.net/profile/Xiaoyue-Liu-4). If you do not have access to any of my papers, please feel free to <a href="mailto:liuxiaoyue14@lzu.edu.cn">contact me</a> to request a copy.
-
-
 
 ## First-authored
 
@@ -54,7 +52,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 
 <ol reversed>
 
-<li> Wang, L.; Zhao, Y.; <b>Liu, X.</b>; Shi, J. Enhancement of atmospheric oxidation capacity induced co-pollution of the O<sub>3</sub> and PM<sub>{2.5}</sub> in Lanzhou, northwest China. Environmental Pollution 2023, 122951. <a target="_blank" href="https://doi.org/10.1016/j.envpol.2023.122951">https://doi.org/10.1016/j.envpol.2023.122951.</a></li>
+<li> Wang, L.; Zhao, Y.; <b>Liu, X.</b>; Shi, J. Enhancement of atmospheric oxidation capacity induced co-pollution of the O<sub>3</sub> and PM<sub>2.5</sub> in Lanzhou, northwest China. Environmental Pollution 2023, 122951. <a target="_blank" href="https://doi.org/10.1016/j.envpol.2023.122951">https://doi.org/10.1016/j.envpol.2023.122951.</a></li>
 
 <li> Huang, J.; Zhang, L.; Chen, B.; <b>Liu, X.</b>; Yan, W.; Zhao, Y.; Chen, S.; Lian, X.; Liu, C.; Wang, R.; Gao, S.; Wang, D. Development of the Second Version of the Global Prediction System for Epidemiological Pandemic. Fundamental Research 2023, S2667325823002303. <a target="_blank" href="https://doi.org/10.1016/j.fmre.2023.02.030">https://doi.org/10.1016/j.fmre.2023.02.030.</a></li>
 
