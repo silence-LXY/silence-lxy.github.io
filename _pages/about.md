@@ -18,8 +18,8 @@ redirect_from:
 # 🌲 About Me <span style="float:right"><font size=2>(Last updated on 2023.11.19)</font></span>
 
 <p>
-<img src='../images/my-photo-4.jpg' alt="sym" width="30%" style="border-radius: 0.4em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" align=right>
+<!-- <img src='../images/my-photo-4.jpg' alt="sym" width="30%" style="border-radius: 0.4em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" align=right> -->
 I am a Ph.D. Candidate at <a target="_blank" href="https://www.lzu.edu.cn/">Lanzhou University (兰州大学)</a> under the supervision of <a target="_blank" href="https://scholar.google.com/citations?user=1OFMwwkAAAAJ">Prof. Jianping Huang (黄建平教授)</a>.
 <br>
 My primary research focus areas include:
