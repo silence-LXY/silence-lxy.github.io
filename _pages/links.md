@@ -26,24 +26,19 @@ Here are some softwares and tools that I find useful in my research:
   - [Zotero](https://www.zotero.org/) and [Nutstore](https://www.jianguoyun.com/) are useful for managing and syncing your references and citations
 
 - Python related
-  - Data Processing: 
+  - Data Processing
     - [Pandas](https://pandas.pydata.org/), [Xarray](https://docs.xarray.dev/en/stable/), [MetPy](https://unidata.github.io/MetPy/latest/index.html)
-  - Machine Learning: 
+  - Machine Learning
     - [scikit-learn](https://scikit-learn.org/), [lightgbm](https://lightgbm.readthedocs.io/en/stable/), [xgboost](https://xgboost.readthedocs.io/en/stable/), [tslearn](https://tslearn.readthedocs.io/en/stable/), [SHAP](https://shap.readthedocs.io/en/latest/)
   - Automated Machine Learning: 
-    - [OPTUNA](https://optuna.org/)
-    - [TPOT](http://epistasislab.github.io/tpot/) 
-    - [autogluon](https://auto.gluon.ai/stable/index.html)
-  - Causal inference:
-    - [causalpy](https://causalpy.readthedocs.io/en/latest/)
-    - [PyMC](https://www.pymc.io/welcome.html)
-  - Parallel Computing: 
+    - [OPTUNA](https://optuna.org/), [TPOT](http://epistasislab.github.io/tpot/), [autogluon](https://auto.gluon.ai/stable/index.html)
+  - Causal inference
+    - [causalpy](https://causalpy.readthedocs.io/en/latest/), [PyMC](https://www.pymc.io/welcome.html)
+  - Parallel Computing
     - [Dask](https://www.dask.org/)
-  - Visualization: 
+  - Visualization
     - [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), [plotly](https://plotly.com/), [JoyPy](https://github.com/leotac/joypy)
-    - [contextily](https://contextily.readthedocs.io/en/latest/) (retrieve open source maps) 
+    - [contextily](https://contextily.readthedocs.io/en/latest/) (retrieve open source maps)
     - [cmpas](https://github.com/hhuangwx/cmaps) (NCL colormap)
-  - Package Management: 
+  - Package Management
     - [Anaconda](https://docs.conda.io/en/latest/), [maba](https://mamba.readthedocs.io/en/latest/)
-
-
