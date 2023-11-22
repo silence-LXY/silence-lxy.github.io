@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 🔗 Links <span style="float:right"><font size=2>(Last updated on 2023.11.19)</font></span>
+# 🔗 Links <span style="float:right"><font size=2>(Last updated on 2023.11.22)</font></span>
 
 ## Prof. Jianping Huang & Group
 
@@ -42,3 +42,7 @@ Here are some softwares and tools that I find useful in my research:
     - [cmpas](https://github.com/hhuangwx/cmaps) (NCL colormap)
   - Package Management
     - [Anaconda](https://docs.conda.io/en/latest/), [maba](https://mamba.readthedocs.io/en/latest/)
+
+  ## Useful links
+
+<a target="_blank" href="https://homes.cs.washington.edu/~mernst/advice/">Advice for researchers and students</a> (in Chinese)
