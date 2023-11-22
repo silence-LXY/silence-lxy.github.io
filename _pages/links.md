@@ -43,6 +43,6 @@ Here are some softwares and tools that I find useful in my research:
   - Package Management
     - [Anaconda](https://docs.conda.io/en/latest/), [maba](https://mamba.readthedocs.io/en/latest/)
 
-  ## Useful links
-
-<a target="_blank" href="https://homes.cs.washington.edu/~mernst/advice/">Advice for researchers and students</a> (in Chinese)
+## Useful links
+I find the following link a very valuable resource:
+<a target="_blank" href="https://homes.cs.washington.edu/~mernst/advice/">Advice for researchers and students</a>
