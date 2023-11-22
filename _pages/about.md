@@ -35,8 +35,8 @@ As I approach my thesis defense in June 2024, I am actively exploring potential 
 
 - **Feb 2023**: Proud to have my innovative application of atmospheric O<sub>2</sub> measurements in revealing 'urban respiration', featured on the front cover of [Environmental Science & Technology](https://doi.org/10.1021/acs.est.2c07583)
 
-- **2021.12**: Honored to receive the Baosteel Outstanding Student Special Scholarship, a prestigious recognition awarded to only 25 students across China annually.
+- **Dec 2021**: Honored to receive the Baosteel Outstanding Student Special Scholarship, a prestigious recognition awarded to only 25 students across China annually.
 
-- **2021.10**: Grateful to be a recipient of the National Scholarship (Top 1%).
+- **Oct 2021**: Grateful to be a recipient of the National Scholarship (Top 1%).
 
-- **2021.02**: My research on COVID-19 transmission dynamics, emphasizing that seasonality alone is insufficient to curb spread, was published in [Environmental Research](https://linkinghub.elsevier.com/retrieve/pii/S0013935121001687). This work has been an [ESI highly cited paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000639328800153) (Top 1%) since Aug 2021.
+- **Apr 2021**: My research on COVID-19 transmission dynamics, emphasizing that seasonality alone is insufficient to curb spread, was published in [Environmental Research](https://linkinghub.elsevier.com/retrieve/pii/S0013935121001687). This work has been an [ESI highly cited paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000639328800153) (Top 1%) since Aug 2021.
