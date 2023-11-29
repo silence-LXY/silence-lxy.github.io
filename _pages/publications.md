@@ -14,7 +14,7 @@ author_profile: true
 
 # 📝 Publications <span style="float:right"><font size=2>(Last updated on 2023.11.19)</font></span>
 
-I have co-authored over 30 peer-reviewed papers, cited more than 460 times with an H-index of 12 (Source: [Web of Science](https://www.webofscience.com/wos/author/record/1931097)).
+I have co-authored 40 peer-reviewed papers, cited more than 460 times with an H-index of 12 (Source: [Web of Science](https://www.webofscience.com/wos/author/record/1931097)).
 
 You can find all my co-authored publications on [Google Scholar](https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl=en) <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, [Web of Science](https://www.webofscience.com/wos/author/record/1931097), [ORCID](https://orcid.org/0000-0001-8074-3362), and [ResearchGate](https://www.researchgate.net/profile/Xiaoyue-Liu-4). If you do not have access to any of my papers, please feel free to <a href="mailto:liuxiaoyue14@lzu.edu.cn">contact me</a> to request a copy.
 
