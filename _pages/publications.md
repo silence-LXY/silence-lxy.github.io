@@ -69,7 +69,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 
 <li>丁磊; 黄建平; 李昶豫; 韩东亮; <b>刘晓岳</b>; 李海云; 白岩; 黄季平. 气候变化下陆地产氧量变化. SCIENTIA SINICA Terrae 2022, 52 (11), 2166–2180. <a target="_blank" href="https://doi.org/10.1360/N072021-0315">https://doi.org/10.1360/N072021-0315</a>.</li>
 
-<li>Han, D.; Huang, J.; Ding, L.; Zhang, G.; <b>Liu, X.</b>; Li, C.; Yang, F. Breaking the Ecosystem Balance Over the Tibetan Plateau. Earth’s Future 2022, 10 (10) <a target="_blank" href="https://doi.org/10.1029/2022EF002890">https://doi.org/10.1029/2022EF002890</a>.</li>
+<li>Han, D.; Huang, J.; Ding, L.; Zhang, G.; <b>Liu, X.</b>; Li, C.; Yang, F. Breaking the Ecosystem Balance Over the Tibetan Plateau. Earth’s Future 2022, 10 (10), e2022EF002890. <a target="_blank" href="https://doi.org/10.1029/2022EF002890">https://doi.org/10.1029/2022EF002890</a>.</li>
 
 
 <li>Ding, L.; Huang, J.; Li, C.; Han, D.; <b>Liu, X.</b>; Li, H.; Bai, Y.; Huang, J. Variations in Terrestrial Oxygen Sources under Climate Change. Science China Earth Sciences 2022, 65 (9), 1810–1823. <a target="_blank" href="https://doi.org/10.1007/s11430-021-9956-5">https://doi.org/10.1007/s11430-021-9956-5</a>.</li>
