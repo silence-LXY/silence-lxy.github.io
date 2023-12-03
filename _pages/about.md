@@ -22,7 +22,7 @@ redirect_from:
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" align=right> -->
 I am a Ph.D. Candidate at <a target="_blank" href="https://www.lzu.edu.cn/">Lanzhou University (兰州大学)</a> under the supervision of <a target="_blank" href="https://scholar.google.com/citations?user=1OFMwwkAAAAJ">Prof. Jianping Huang (黄建平教授)</a>.
 <br>
-My primary research focus areas include:
+My primary research focus include:
 <ul>
 <li>Anthropogenic impacts on O<sub>2</sub> and CO<sub>2</sub> cycle at both global and regional scales;</li>
 <li>Influence of meteorological, climatic, and environmental factors on public health.</li>
