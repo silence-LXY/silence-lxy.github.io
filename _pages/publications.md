@@ -35,7 +35,7 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 
 <li><b>Liu, X.</b>; Huang, J.; Li, C.; Zhao, Y.; Wang, D.; Huang, Z.; Yang, K. The Role of Seasonality in the Spread of COVID-19 Pandemic. <i>Environ. Res.</i> 2021, 195, 110874. <a target="_blank" href="https://doi.org/10.1016/j.envres.2021.110874">https://doi.org/10.1016/j.envres.2021.110874</a>. 
 <font color="#0099ff"> 
-<b><i>JCR-Q1 IF=8.3 ESI Higly Cited</i></b>
+<b><i>JCR-Q1 IF=8.3 ESI Highly Cited</i></b>
 </font>
 </li>
 
