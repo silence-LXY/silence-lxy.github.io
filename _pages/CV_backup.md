@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# ℹ️ Curriculum Vitae <span style="float:right"><font size=2>(Last updated on 2024.01.07)</font></span>
+# ℹ️ Curriculum Vitae <span style="float:right"><font size=2>(Last updated on 2023.11.19)</font></span>
 
 ## 📖 Educations
 <ul>
@@ -32,14 +32,14 @@ author_profile: true
 
 ## 🔎 Research Experience
 ### Anthropogenic Impact on O<sub>2</sub> and CO<sub>2</sub> budget (2019-Present)
-- **Research Focus**: Explored *urban respiration* based on O<sub>2</sub> measurements and data-driven techniques, developed a novel and comprehensive inventory of global atmospheric O<sub>2</sub> uptake, and employed Earth system models to assess and predict the global atmospheric O<sub>2</sub> budget across various historical periods and future projections.
+- **Regional Scale**: Explored urban O<sub>2</sub> budgets, and examined non-linear relationships between O<sub>2</sub> and human activities in urban Lanzhou based on high-precision O<sub>2</sub> measurements and process-based and data-driven modeling techniques
 
-- **Academic Recognition**: This study presents one of the first high-precision atmospheric O<sub>2</sub> measurements in China and earned recognition with two front cover features in [Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.2c07583) and [Environmental Science and Technology Letters](https://pubs.acs.org/doi/10.1021/acs.estlett.3c00505).
+- **Global Scale**: Developed a novel and comprehensive inventory of global atmospheric O<sub>2</sub> uptake, and employed Earth system models to assess and predict the global atmospheric O<sub>2</sub> budget across various historical periods and future projections
 
 ### Health Risk Assessment under Climate Change (2020-Present)
-- **Research Focus**: Led a multidisciplinary study to quantify the influence of meteorological and environmental factors on the transmission dynamics of infectious diseases. This work was pivotal in assessing public health risks under varying climate conditions and guiding government responses. It formed a core component of the Global Prediction System for the COVID-19 pandemic.
+- Refined and improved the SEIR epidemic model by integrating seasonal variability, and quantified the influence of meteorological and environmental factors on the transmission dynamics of infectious diseases in close collaboration with epidemiologists
 
-- **Academic Recognition**: This study has been cited by prestigious journals such as [Nature Medicine](https://www.nature.com/articles/s41591-021-01303-y) and [the Lancet Public Health](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(22)00001-9/fulltext). It has been recognized as a [highly cited paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000639328800153) (Top 1\%) since August 2021, and referenced in policy documents by the [U.S. federal government](https://www.federalregister.gov/documents/2022/03/16/2022-05636/asylum-interview-interpreter-requirement-modification-due-to-covid-19) and the [European Union](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2022)729374).
+- Played a pivotal role in the interdisciplinary team that developed the Global Prediction System for the COVID-19 pandemic, contributing to the model’s robustness and predictive accuracy in assessing public health risks under various climate conditions and government response levels
 
 ***
 
