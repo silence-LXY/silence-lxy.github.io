@@ -48,7 +48,7 @@ author_profile: true
 
 - **Impact**:  
   The study I led presents one of the first high-precision atmospheric O<sub>2</sub> measurements in China and earned recognition with two front cover features in [Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.2c07583) and [Environmental Science and Technology Letters](https://pubs.acs.org/doi/10.1021/acs.estlett.3c00505).
-  
+
 ### Quantifying the Seasonal Impacts on Infectious Disease Transmission (2020-2022)
 - **Background**:  
   The COVID-19 pandemic has resulted in hugely disruptive impacts across almost all sectors of society. My role involved working in a multidisciplinary team to understand and predict the spread of the COVID-19 pandemic and to inform public health interventions.
@@ -73,7 +73,7 @@ author_profile: true
 - **Programming Skills**
   - **Proficient in Python**, MATLAB, R, NCAR Command Language, FORTRAN, Markdown, LaTeX, etc.
 - **Models & Methods**
-  - Machine Learning, Time Series Analysis, WRF-Chem, Causal Inference, High Performance Computing, Epidemic Models, etc.
+  - Machine Learning, Time Series Analysis, WRF-Chem, dlnm, Causal Inference, High Performance Computing, Epidemic Models, etc.
 - **Instrumentation**
   - Installation, maintenance, and calibration of instruments for O<sub>2</sub> and CO<sub>2</sub> measurements (e.g., Picarro G2207-i, Agilent 7890B)
 - **Software**
