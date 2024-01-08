@@ -31,15 +31,41 @@ author_profile: true
 ***
 
 ## 🔎 Research Experience
-### Anthropogenic Impact on O<sub>2</sub> and CO<sub>2</sub> budget (2019-Present)
-- **Research Focus**: Explored *urban respiration* based on O<sub>2</sub> measurements and data-driven techniques, developed a novel and comprehensive inventory of global atmospheric O<sub>2</sub> uptake, and employed Earth system models to assess and predict the global atmospheric O<sub>2</sub> budget across various historical periods and future projections.
 
-- **Academic Recognition**: This study presents one of the first high-precision atmospheric O<sub>2</sub> measurements in China and earned recognition with two front cover features in [Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.2c07583) and [Environmental Science and Technology Letters](https://pubs.acs.org/doi/10.1021/acs.estlett.3c00505).
+### Anthropogenic Impact on Atmospheric O<sub>2</sub> Budget (2019-Present)
+- **Background**:  
+  Atmospheric O<sub>2</sub> plays a crucial role in global biogeochemical cycles and is essential for supporting life. However, observations have indicated a declining atmospheric O<sub>2</sub> concentrations since the late 1980s. I used process-driven and data-driven models to explore the atmospheric O<sub>2</sub> budget on both regional and global scales.
 
-### Health Risk Assessment under Climate Change (2020-Present)
-- **Research Focus**: Led a multidisciplinary study to quantify the influence of meteorological and environmental factors on the transmission dynamics of infectious diseases. This work was pivotal in assessing public health risks under varying climate conditions and guiding government responses. It formed a core component of the Global Prediction System for the COVID-19 pandemic.
+- **Objective**:
+  - Simulate and predict the global O<sub>2</sub> cycle in past and future climate scenarios.
+  - Quantify the human impact on regional atmospheric O<sub>2</sub> budget.
 
-- **Academic Recognition**: This study has been cited by prestigious journals such as [Nature Medicine](https://www.nature.com/articles/s41591-021-01303-y) and [the Lancet Public Health](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(22)00001-9/fulltext). It has been recognized as a [highly cited paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000639328800153) (Top 1\%) since August 2021, and referenced in policy documents by the [U.S. federal government](https://www.federalregister.gov/documents/2022/03/16/2022-05636/asylum-interview-interpreter-requirement-modification-due-to-covid-19) and the [European Union](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2022)729374).
+- **Contribution**:
+  - Developed a novel and comprehensive inventory of global atmospheric O<sub>2</sub> uptake at 0.1°×0.1° resolution.
+  - Employed Earth system models to assess and predict the global atmospheric O<sub>2</sub> budget across various historical periods and future projections.
+  - Explored 'urban respiration' based on atmospheric O<sub>2</sub> measurements and a Lagrangian atmospheric transport model (STILT), and quantified contributions of fossil fuel combustion and resident respiration to O<sub>2</sub> variability in the urban atmosphere.
+  - Developed an atmospheric O<sub>2</sub> simulator based on explainable ensemble machine learning algorithms, and explored the non-linear dynamics between O<sub>2</sub> and various pollutants.
+
+- **Impact**:  
+  The study I led presents one of the first high-precision atmospheric O<sub>2</sub> measurements in China and earned recognition with two front cover features in [Environmental Science and Technology](https://pubs.acs.org/doi/10.1021/acs.est.2c07583) and [Environmental Science and Technology Letters](https://pubs.acs.org/doi/10.1021/acs.estlett.3c00505).
+  
+### Quantifying the Seasonal Impacts on Infectious Disease Transmission (2020-2022)
+- **Background**:  
+  The COVID-19 pandemic has resulted in hugely disruptive impacts across almost all sectors of society. My role involved working in a multidisciplinary team to understand and predict the spread of the COVID-19 pandemic and to inform public health interventions.
+
+- **Objective**:
+  - Isolate the seasonal impact in the presence of limited data and difficulties in separating the impacts of social distancing.
+  - Build a Global Prediction System for the COVID-19 Pandemic that integrates the impact of environmental factors, public behaviors, government response, etc.
+
+- **Contribution**: 
+  - Developed a rolling window method based on a Bayesian inference model and a nonlinear least-squares algorithm to solve the SEIR model parameters.
+  - Simulated a counterfactual scenario where COVID-19 is spreading without seasonality to isolate the seasonal impact.
+  - Used the EEMD method to decompose the COVID-19 time series to detect potential seasonal signals, and validated results against the simulations by the SEIR model.
+  - Led a multidisciplinary team to write up research work for peer-reviewed publications, and integrated my module into the [Global Prediction System for the COVID-19 Pandemic](http://covid-19.lzu.edu.cn/).
+
+- **Impact**:  
+  [My first-authored paper](https://doi.org/10.1016/j.envres.2021.110874) has been cited by prestigious journals such as [Nature Medicine](https://www.nature.com/articles/s41591-021-01303-y) and [The Lancet Public Health](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(22)00001-9/fulltext). It has been recognized as a [highly cited paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000639328800153) (Top 1%) since August 2021, and referenced in policy documents by the [U.S. federal government](https://www.federalregister.gov/documents/2022/03/16/2022-05636/asylum-interview-interpreter-requirement-modification-due-to-covid-19) and the [European Union](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2022)729374).
+
 
 ***
 
