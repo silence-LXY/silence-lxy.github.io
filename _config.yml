@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoyue Liu（刘晓岳）"
-description              : "Ph.D. Candidate"
+description              : "Research Fellow"
 repository               : "silence-LXY/silence-lxy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   # employer         : "Lanzhou University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "liuxiaoyue14@lzu.edu.cn"
+  email            : "xiaoyue@nus.edu.sg"
   researchgate     : "https://www.researchgate.net/profile/Xiaoyue-Liu-4"
   uri              :
   bitbucket        :

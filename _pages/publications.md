@@ -12,11 +12,11 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 📝 Publications <span style="float:right"><font size=2>(Last updated on 2024.01.07)</font></span>
+# 📝 Publications <span style="float:right"><font size=2>(Last updated on 2024.09.17)</font></span>
 
-I have co-authored 40 peer-reviewed papers, cited more than 470 times with an H-index of 12 (Source: [Web of Science](https://www.webofscience.com/wos/author/record/1931097)).
+I have co-authored 40+ peer-reviewed papers, cited more than 600 times with an H-index of 14 (Source: [Web of Science](https://www.webofscience.com/wos/author/record/1931097)).
 
-You can find all my co-authored publications on [Google Scholar](https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl=en) <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, [Web of Science](https://www.webofscience.com/wos/author/record/1931097), [ORCID](https://orcid.org/0000-0001-8074-3362), and [ResearchGate](https://www.researchgate.net/profile/Xiaoyue-Liu-4). If you do not have access to any of my papers, please feel free to <a href="mailto:liuxiaoyue14@lzu.edu.cn">contact me</a> to request a copy.
+You can find all my co-authored publications on [Google Scholar](https://scholar.google.com/citations?user=_cQXFJMAAAAJ&hl=en) <a href='https://scholar.google.com/citations?user=_cQXFJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, [Web of Science](https://www.webofscience.com/wos/author/record/1931097), [ORCID](https://orcid.org/0000-0001-8074-3362), and [ResearchGate](https://www.researchgate.net/profile/Xiaoyue-Liu-4). If you do not have access to any of my papers, please feel free to <a href="mailto:xiaoyue@nus.edu.sg">contact me</a> to request a copy.
 
 ## First-authored
 
@@ -51,6 +51,10 @@ You can find all my co-authored publications on [Google Scholar](https://scholar
 ## Co-authored
 
 <ol reversed>
+
+<li> Li, C.; Huang, J.; <b>Liu, X.</b>; Ding, L.; He, Y.; Xie, Y. The ocean losing its breath under the heatwaves. Nature Communications 2024, 15(6840). <a target="_blank" href="http://dx.doi.org/10.1038/s41467-024-51323-8">http://dx.doi.org/10.1038/s41467-024-51323-8.</a></li>
+
+<li> Zhou, J.; Yu, H.; Ren, Y.; Yang, Y.; <b>Liu, X.</b>; Chen, G.; Ma, Z.; Zhao, W.; Chen, S.; Wei, Y.; Liu, C.; Zhang, J. Remote Effects of double Typhoons on Record-breaking Rainfall: A case Study in North China. Atmospheric Research 2024, 107377. <a target="_blank" href="http://dx.doi.org/10.1016/j.atmosres.2024.107377">http://dx.doi.org/10.1016/j.atmosres.2024.107377.</a></li>
 
 <li> Wang, L.; Zhao, Y.; <b>Liu, X.</b>; Shi, J. Enhancement of atmospheric oxidation capacity induced co-pollution of the O<sub>3</sub> and PM<sub>2.5</sub> in Lanzhou, northwest China. Environmental Pollution 2023, 122951. <a target="_blank" href="https://doi.org/10.1016/j.envpol.2023.122951">https://doi.org/10.1016/j.envpol.2023.122951.</a></li>
 

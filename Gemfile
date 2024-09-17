@@ -27,3 +27,7 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
+
+# update
+gem 'nokogiri', '>= 1.14.0' # Or the latest version supporting Ruby 3.3.x
+
